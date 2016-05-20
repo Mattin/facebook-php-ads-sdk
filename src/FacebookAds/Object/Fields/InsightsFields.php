@@ -53,6 +53,7 @@ class InsightsFields extends AbstractEnum {
   const COST_PER_TOTAL_ACTION = 'cost_per_total_action';
   const COST_PER_UNIQUE_CLICK = 'cost_per_unique_click';
   const COST_PER_UNIQUE_ACTION_TYPE = 'cost_per_unique_action_type';
+  const CLICKS = 'clicks';
   const CPM = 'cpm';
   const CPP = 'cpp';
   const CTR = 'ctr';
